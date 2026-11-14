@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://open-codx.mn-bots.workers.dev/",
+      "permanent": true
+    }
+  ]
+}
